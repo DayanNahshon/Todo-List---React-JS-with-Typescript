@@ -1,9 +1,6 @@
 # To Do List
 
-![image](https://github.com/DayanNahshon/Todo-List---React-JS-with-Typescript/assets/112100523/93636746-e91a-4494-b5c5-08ad18fff4bb)
-
-
-
+![image](https://github.com/DayanNahshon/Todo-List---React-JS-with-Typescript/assets/112100523/df5d54d8-5979-45b6-a1c7-772e59ad59d4)
 
 # Getting Started with Create React App
 
