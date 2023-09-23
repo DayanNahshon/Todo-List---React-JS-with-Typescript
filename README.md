@@ -1,4 +1,4 @@
-# To Do List
+# To Do List (TypeScript with ReactJS - Frontend Only)
 
 ![image](https://github.com/DayanNahshon/Todo-List---React-JS-with-Typescript/assets/112100523/df5d54d8-5979-45b6-a1c7-772e59ad59d4)
 
