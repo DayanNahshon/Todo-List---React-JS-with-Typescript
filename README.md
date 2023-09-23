@@ -1,3 +1,10 @@
+# To Do List
+
+![image](https://github.com/DayanNahshon/Todo-List---React-JS-with-Typescript/assets/112100523/93636746-e91a-4494-b5c5-08ad18fff4bb)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
